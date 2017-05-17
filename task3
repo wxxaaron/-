@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>三栏式布局</title>
+	<link rel="stylesheet" type="text/css" href="task3.css">
+</head>
+<body>
+	<div class="wrap">
+		<div class="logo">
+			<img src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1494254963832&di=2a32a9f7ba4241598b62bba69c2465a5&imgtype=0&src=http%3A%2F%2Fwww.86ps.com%2Fsc%2Fkt%2F111%2F025.jpg">
+			<span>团队名称</span>
+		</div>
+		<div class="para">
+			好大一段话好大一段话，好大一段话好大一段话，好大一段话好大一段话，好大一段话好大一段话，好大一段话好大一段话，好大一段话好大一段话，好大一段话好大一段话，好大一段话好大一段话，好大一段话好大一段话，好大一段话好大一段话，好大一段话好大一段话，好大一段话好大一段话，好大一段话好大一段话，好大一段话好大一段话，好大一段话好大一段话，好大一段话好大一段话，好大一段话好大一段话，好大一段话好大一段话，好大一段话好大一段话，好大一段话好大一段话，好大一段话好大一段话，好大一段话好大一段话，好大一段话好大一段话，好大一段话好大一段话，好大一段话好大一段话，好大一段话好大一段话，好大一段话好大一段话，好大一段话好大一段话，好大一段话好大一段话，好大一段话好大一段话，好大一段话好大一段话，好大一段话好大一段话，好大一段话好大一段话，好大一段话好大一段话，好大一段话好大一段话，好大一段话好大一段话，
+		</div>
+		<div class="image">
+			<img src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1494254963832&di=2a32a9f7ba4241598b62bba69c2465a5&imgtype=0&src=http%3A%2F%2Fwww.86ps.com%2Fsc%2Fkt%2F111%2F025.jpg">
+			<img src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1494254963832&di=2a32a9f7ba4241598b62bba69c2465a5&imgtype=0&src=http%3A%2F%2Fwww.86ps.com%2Fsc%2Fkt%2F111%2F025.jpg">
+			<img src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1494254963832&di=2a32a9f7ba4241598b62bba69c2465a5&imgtype=0&src=http%3A%2F%2Fwww.86ps.com%2Fsc%2Fkt%2F111%2F025.jpg">
+			<img src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1494254963832&di=2a32a9f7ba4241598b62bba69c2465a5&imgtype=0&src=http%3A%2F%2Fwww.86ps.com%2Fsc%2Fkt%2F111%2F025.jpg">
+		</div>
+	</div>
+</body>
+</html>

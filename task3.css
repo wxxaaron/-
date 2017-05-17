@@ -1,0 +1,59 @@
+*
+{
+    font-family: '微软雅黑';
+
+    margin: 0;
+    padding: 0;
+}
+.wrap
+{
+    position: relative;
+
+    min-height: 450px;
+    margin: 20px;
+    padding: 20px;
+
+    border: 1px #999 solid;
+    background: #eee;
+}
+.logo
+{
+    position: absolute;
+    top: 20px;
+    left: 20px;
+
+    width: 158px;
+    padding: 20px;
+
+    border: 1px #999 solid;
+    background: #fff;
+}
+.logo span
+{
+    display: block;
+    float: right;
+}
+.para
+{
+    margin: 0 140px 0 220px;
+}
+img
+{
+    width: 80px;
+    height: 80px;
+    margin-bottom: 10px;
+
+    border: 1px #999 solid;
+}
+.image
+{
+    position: absolute;
+    top: 20px;
+    right: 20px;
+
+    width: 80px;
+    padding: 20px;
+
+    border: 1px #999 solid;
+    background: #fff;
+}
